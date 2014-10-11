@@ -10,7 +10,6 @@ Module for willie to check given HTTP status code.
 ### Dependency
 ```
 pip install willie
-
 ```
 
 ### willie-httpstatus
